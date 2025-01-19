@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://thekwameaheto.github.io/](https://thekwameaheto.github.io/)
 
 - 💬 Ask me about **html, css, javascript**
 
